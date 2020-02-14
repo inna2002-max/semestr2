@@ -24,7 +24,7 @@
                     </tr>
                   <tr>
                     <tr> Дывчата </tr>
-                  <tr rowspan = "2">| 10 </tr>
+                  <tr rowspan = "2"> 10 </tr>
                     <tr>     </tr>
                   </tr>
                 <tr> 
