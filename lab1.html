@@ -7,7 +7,7 @@
 <body>
 <div id = "b1">
      		<div id="b2"> <img src = "earth-sunset-7223.jpg" alt = "логотип"> <h1> Мій улюблений сайт <h1> <h2> Слоган <h2> </div id = "b2">
-			<div id="b3"> <ul> <a href= "https://inna2002-max.github.io/site5/"></a>
+			<div id="b3"> <ul> <a href= "https://inna2002-max.github.io/semestr2/"></a>
 				<ul>
   <oi>
                <a href= "https://drive.google.com/file/d/1-b7kEKvAs23kJhDtFdxCaFrCL81kwEIv/view?usp=sharing"></a>   
