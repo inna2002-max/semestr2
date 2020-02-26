@@ -1,14 +1,17 @@
 ﻿div{border:solid 3px pink;
 margin:2px;}
 #b1{width:100%;}
-#b2{background-color:grey;}
+#b2{background-color: blue;}
 #b3{background-color:grey;
 width:25%;
+margin: 5px;
 float: left;}
-#b4{background-color:white;
+#b4{background-color:grey;
+width:60%;
 float: left;
-border:solid 0px blue;
-margin: 2px;
-}
+border:solid 0px grey;
+margin: 5px;}
 #b5{background-color:grey;
-clear: both;}
+ width:13%;
+clear: both;
+margin: 5px;}
