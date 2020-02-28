@@ -23,10 +23,10 @@ float: left;}
  font-family: Gill Sans; 
  font-size: 5pt;
  
-width:40%;
+width:20%;
 float: left;
-border:solid 0px grey;
-margin: 5px;}
+border:solid 2px grey;
+margin: 3px;}
 #b5{background-color:grey;
  width:10%;
 clear: both;
