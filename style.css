@@ -9,6 +9,14 @@ width:25%;
 margin: 5px;
 float: left;}
 #b4{background-color:grey;
+ 
+ text: 
+ font-variant: normal; 
+ font-style: oblique; 
+ font-weight: 400; 
+ font-family: Gill Sans; 
+ font-size: 20pt;
+ 
 width:60%;
 float: left;
 border:solid 0px grey;
