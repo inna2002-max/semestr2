@@ -1,5 +1,6 @@
 ﻿div{border:solid 3px pink;
-margin:2px;}
+margin:5px;
+background-color: blue;}
 #b1{width:100%;
 background-color: yellow}
 #b2{background-color: blue;}
