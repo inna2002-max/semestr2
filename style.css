@@ -5,6 +5,13 @@ background-color: blue;}
 background-color: yellow}
 #b2{background-color: blue;}
 #b3{background-color:grey;
+ 
+ text: 
+ font-variant: normal;  
+ font-weight: 400; 
+ font-family: Gill Sans; 
+ 
+ font-size: 5pt;
 width:25%;
 margin: 5px;
 float: left;}
