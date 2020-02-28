@@ -4,31 +4,16 @@ background-color: blue;}
 #b1{width:100%;
 background-color: yellow}
 #b2{background-color: blue;}
-#b3{background-color:grey;
- 
- text: 
- font-variant: normal;  
- font-weight: 400; 
- font-family: Gill Sans; 
- 
- font-size: 5pt;
+#b3{background-color:grey; 
 width:25%;
 margin: 5px;
 float: left;}
-#b4{background-color:grey;
- 
- text: 
- font-variant: normal;  
- font-weight: 400; 
- font-family: Gill Sans; 
- font-size: 5pt;
- 
-width:20%;
+#b4{background-color:grey; 
+ width:20%;
 float: left;
 border:solid 2px grey;
 margin: 3px;}
 #b5{background-color:grey;
  width:10%;
-clear: both;
 margin: 5px;
  float: left;}
